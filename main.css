@@ -97,18 +97,26 @@ table td img {
     height: 30px;
 }
 
-.resultado {
+/* .resultado {
     padding: 8px;
     font-weight: bold;
     background-color: #000000;
     color: #ffffff;
     border-radius: 3px;
-}
+} */
 
 .aprovado {
     background-color: #009432;
+    color: #ffffff;
+    padding: 8px;
+    font-weight: bold;
+    border-radius: 3px;
 }
 
 .reprovado {
     background-color: red;
+    color: #ffffff;
+    padding: 8px;
+    font-weight: bold;
+    border-radius: 3px;
 }
